@@ -12,7 +12,10 @@ simply just delete the file. *(But you really dont need to lol)*
 
 ## Q&A
 **Q:** I got the message `You must run this program as administrator to patch roblox studio.` What do I do?
+
 **A:** You just open a new terminal as administrator and run the command again.
 
+
 **Q:** I got the message `Failed to get roblox studio version.` What do I do?
+
 **A:** You probably dont have a wifi connection, or the url for getting the current roblox studio version isn't up anymore, or just it didn't feel like working. Either way try going to [Roblox Studio AWS S3 Server](http://s3.amazonaws.com/setup.roblox.com/versionQTStudio) and run the commmand with the argument of `--version version-blah`. For example `./EXECUTABLE-NAME patch --version version-d9128aa1071a43de`.

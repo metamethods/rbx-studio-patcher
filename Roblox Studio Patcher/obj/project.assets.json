@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net7.0": {},
-    "net7.0/win-x64": {}
+    "net7.0/win7-x64": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
@@ -63,6 +63,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+            "version": "[7.0.8, 7.0.8]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.win-x64",
+            "version": "[7.0.8, 7.0.8]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+            "version": "[7.0.8, 7.0.8]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -72,7 +86,7 @@
       }
     },
     "runtimes": {
-      "win-x64": {
+      "win7-x64": {
         "#import": []
       }
     }

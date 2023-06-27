@@ -1,0 +1,45 @@
+name: Build and Publish
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '7.0.x'
+
+    - name: Restore dependencies
+      run: dotnet restore
+
+    - name: Build project
+      run: dotnet build --configuration Release
+
+    - name: Publish project
+      run: dotnet publish --configuration Release --output ./publish
+
+    - name: Create release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: v1.0.0  # Replace with your desired tag name
+        release_name: Release 1.0.0  # Replace with your desired release name
+        draft: false
+        prerelease: false
+
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: Release Artifacts
+        path: ./publish

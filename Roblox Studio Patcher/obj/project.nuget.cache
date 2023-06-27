@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "PuU4fK18JFa2HUPBYNKKPQ18tR6oEAJqkt7QIHgVc6P7aA/jR36dBlTweKnLNgjUEtrX4cWbjMjwsYYdLesRnw==",
+  "dgSpecHash": "vmKGFiytWH/VilxOUgJVgRW6Vxicd1pI5Wezi4cpKcgy5ieO5yJnVNT8v0lCfmhDevHS1S8CKHhZvjr9sI22vQ==",
   "success": true,
   "projectFilePath": "D:\\Projects\\C#\\Roblox Studio Patcher\\Roblox Studio Patcher\\Roblox Studio Patcher.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\table\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.8\\microsoft.netcore.app.runtime.win-x64.7.0.8.nupkg.sha512",
+    "C:\\Users\\table\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.8\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.8.nupkg.sha512",
+    "C:\\Users\\table\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.8\\microsoft.aspnetcore.app.runtime.win-x64.7.0.8.nupkg.sha512"
+  ],
   "logs": []
 }
