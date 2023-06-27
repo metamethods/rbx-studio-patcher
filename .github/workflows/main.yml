@@ -27,7 +27,13 @@ jobs:
     - name: Publish project
       run: dotnet publish --configuration Release --output ./publish
 
+    - name: Generate tag
+      id: tag
+      run: |
+        echo "::set-output name=release_tag::Build_v1.0.0"
+
     - name: Create release
       uses: softprops/action-gh-release@v1
       with:
+        tag_name: ${{ steps.tag.outputs.release_tag }}
         files: ./publish/*.exe
