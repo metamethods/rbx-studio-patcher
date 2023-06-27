@@ -6,16 +6,21 @@ A simple patcher for Roblox Studio that allows you to use the internal state of 
 2. Open your terminal and run `./Roblox Studio Patcher patch` to patch Roblox Studio.
 3. Finally watch your dumb little Roblox Studio turn into the cool kid.
 
+*Dont try running the program by double clicking it. It's not gonna do anything*
+
 ## How to unpatch
 The orignal file for roblox studio still exists in the same directory as the patched version. To unpatch,
 simply just delete the file. *(But you really dont need to lol)*
 
 ## Q&A
 **Q:** I got the message `You must run this program as administrator to patch roblox studio.` What do I do?
-
+<br/
 **A:** You just open a new terminal as administrator and run the command again.
 
-
 **Q:** I got the message `Failed to get roblox studio version.` What do I do?
-
+<br/>
 **A:** You probably dont have a wifi connection, or the url for getting the current roblox studio version isn't up anymore, or just it didn't feel like working. Either way try going to [Roblox Studio AWS S3 Server](http://s3.amazonaws.com/setup.roblox.com/versionQTStudio) and run the commmand with the argument of `--version version-blah`. For example `./EXECUTABLE-NAME patch --version version-d9128aa1071a43de`.
+
+**Q:** OMG window defender say this might be malware!1
+<br/>
+**A:** No dont worry, this isn't a malware. Literlly where you downloaded this program is where the source code is.
