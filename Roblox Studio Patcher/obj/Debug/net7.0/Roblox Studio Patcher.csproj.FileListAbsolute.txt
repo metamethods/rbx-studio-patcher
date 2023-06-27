@@ -1,0 +1,15 @@
+D:\Projects\C#\Roblox Studio Patcher\Roblox Studio Patcher\bin\Debug\net7.0\Roblox Studio Patcher.exe
+D:\Projects\C#\Roblox Studio Patcher\Roblox Studio Patcher\bin\Debug\net7.0\Roblox Studio Patcher.deps.json
+D:\Projects\C#\Roblox Studio Patcher\Roblox Studio Patcher\bin\Debug\net7.0\Roblox Studio Patcher.runtimeconfig.json
+D:\Projects\C#\Roblox Studio Patcher\Roblox Studio Patcher\bin\Debug\net7.0\Roblox Studio Patcher.dll
+D:\Projects\C#\Roblox Studio Patcher\Roblox Studio Patcher\bin\Debug\net7.0\Roblox Studio Patcher.pdb
+D:\Projects\C#\Roblox Studio Patcher\Roblox Studio Patcher\obj\Debug\net7.0\Roblox Studio Patcher.csproj.AssemblyReference.cache
+D:\Projects\C#\Roblox Studio Patcher\Roblox Studio Patcher\obj\Debug\net7.0\Roblox Studio Patcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Roblox Studio Patcher\Roblox Studio Patcher\obj\Debug\net7.0\Roblox Studio Patcher.AssemblyInfoInputs.cache
+D:\Projects\C#\Roblox Studio Patcher\Roblox Studio Patcher\obj\Debug\net7.0\Roblox Studio Patcher.AssemblyInfo.cs
+D:\Projects\C#\Roblox Studio Patcher\Roblox Studio Patcher\obj\Debug\net7.0\Roblox Studio Patcher.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Roblox Studio Patcher\Roblox Studio Patcher\obj\Debug\net7.0\Roblox Studio Patcher.dll
+D:\Projects\C#\Roblox Studio Patcher\Roblox Studio Patcher\obj\Debug\net7.0\refint\Roblox Studio Patcher.dll
+D:\Projects\C#\Roblox Studio Patcher\Roblox Studio Patcher\obj\Debug\net7.0\Roblox Studio Patcher.pdb
+D:\Projects\C#\Roblox Studio Patcher\Roblox Studio Patcher\obj\Debug\net7.0\Roblox Studio Patcher.genruntimeconfig.cache
+D:\Projects\C#\Roblox Studio Patcher\Roblox Studio Patcher\obj\Debug\net7.0\ref\Roblox Studio Patcher.dll

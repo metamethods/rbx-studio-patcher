@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RunTimeIdentifier>win7-x64</RunTimeIdentifier>
+    <LangVersion>Latest</LangVersion>
+    <AssemblyName>Roblox_Studio_Patcher</AssemblyName>
+    <RootNamespace>RobloxStudioPatcher</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PublishSingleFile>true</PublishSingleFile>
+  </PropertyGroup>
+
+</Project>
