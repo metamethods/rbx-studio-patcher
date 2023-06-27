@@ -1,2 +1,0 @@
-D:\Projects\C#\Roblox Studio Patcher\Roblox Studio Patcher\bin\Debug\net7.0\win-x64\publish\Roblox_Studio_Patcher.pdb
-D:\Projects\C#\Roblox Studio Patcher\Roblox Studio Patcher\bin\Debug\net7.0\win-x64\publish\Roblox_Studio_Patcher.exe
